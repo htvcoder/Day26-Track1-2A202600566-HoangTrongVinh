@@ -2,9 +2,7 @@
 
 ## Idea của tôi có fundable trong bối cảnh gọi vốn hiện tại không?
 
-Theo mình, **Học siêu tốc có thể fundable ở pre-seed hoặc seed rất sớm**, nhưng chưa phù hợp để nói tới một vòng lớn nếu chưa có traction thật.
-
-Bối cảnh gọi vốn hiện tại lại khiến investor khó tính hơn chứ không dễ hơn. Ngay trong bài chia sẻ, giá trị deal và số deal VC tại Việt Nam đã co lại so với đỉnh 2021, nên investor có xu hướng đòi bằng chứng cụ thể hơn về retention, willingness-to-pay, và economics. Nói cách khác, luận điểm “có AI nên sẽ gọi vốn được” là không đủ. Investor sẽ hỏi moat nằm ở đâu nếu model foundation ngày càng phổ cập. Với Học siêu tốc, moat khả dĩ không phải model tự thân, mà phải đến từ dữ liệu học tập theo ngữ cảnh, workflow cá nhân hóa theo tài liệu người học tải lên, và bằng chứng measurable rằng người học tiến bộ nhanh hơn hoặc học đều hơn.
+Theo mình, **Học siêu tốc có thể fundable ở pre-seed hoặc seed rất sớm**, nhưng chưa phù hợp để nói tới một vòng lớn nếu chưa có traction thật. Bối cảnh gọi vốn hiện tại lại khiến investor khó tính hơn chứ không dễ hơn. Ngay trong bài chia sẻ, giá trị deal và số deal VC tại Việt Nam đã co lại so với đỉnh 2021, nên investor có xu hướng đòi bằng chứng cụ thể hơn về retention, willingness-to-pay, và economics. Nói cách khác, luận điểm “có AI nên sẽ gọi vốn được” là không đủ. Investor sẽ hỏi moat nằm ở đâu nếu model foundation ngày càng phổ cập. Với Học siêu tốc, moat khả dĩ không phải model tự thân, mà phải đến từ dữ liệu học tập theo ngữ cảnh, workflow cá nhân hóa theo tài liệu người học tải lên, và bằng chứng measurable rằng người học tiến bộ nhanh hơn hoặc học đều hơn.
 
 Những bằng chứng cần có để thuyết phục investor gồm: tỷ lệ người học quay lại sau tuần đầu, số phiên học hoàn thành mỗi tuần, tỷ lệ chuyển đổi sang gói trả phí, phản hồi định tính từ pilot group, và một chỉ dấu học tập đo được như điểm quiz cải thiện hoặc completion rate tăng. Nếu chưa có những tín hiệu này, câu chuyện sẽ dừng ở mức “ý tưởng hợp lý” chứ chưa thành “venture case”.
 
